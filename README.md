@@ -14,3 +14,16 @@ all possible image pairs and the calibration matrix of the
 camera used for capturing the images. In the deep learning
 approach we explored an unsupervised deep learning approach
 to retrieve depth and Ego-Motion from motion. 
+
+
+
+
+# Appendix
+
+Note1: For the full project description for traditional approach click [here](https://cmsc733.github.io/2019/proj/p3/).
+
+Note2: For the full project description for deep learning approach click [here](https://cmsc733.github.io/2019/proj/p4/).
+
+Note3: For the full documentation click [here](https://drive.google.com/file/d/1iTwwbpsigVVUsQp9jhI822-1nBH712oo/view?usp=sharing).
+
+
